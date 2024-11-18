@@ -2,3 +2,25 @@
 a.active {
     font-weight: bold;
 }
+
+body{
+    background-color: #EAEBED;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img.home {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.services {
+    display: flex;
+    justify-content: center;
+}
